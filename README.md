@@ -261,7 +261,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
 
 ---
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 <p align="center">
   <img
@@ -276,7 +276,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
   />
 </p>
 
-## Contribution Streak
+## Sequências de Contribuições
 
 <p align="center">
   <img
@@ -285,7 +285,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
   />
 </p>
 
-## Activity Graph
+## Gráfico de Atividades
 
 <p align="center">
   <img
@@ -295,7 +295,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
   />
 </p>
 
-## GitHub Trophies
+## Troféus do GitHub
 
 <p align="center">
   <img
@@ -305,7 +305,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
   />
 </p>
 
-## Snake Contribution
+## Jogo da Cobrinha 
 
 <p align="center">
   <img
