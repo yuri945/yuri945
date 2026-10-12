@@ -1,23 +1,23 @@
-<!-- BANNER PRINCIPAL -->
+<!-- ═════════════════════ BANNER ═════════════════════ -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,45:0B1F4D,100:1D4ED8&height=220&section=header&text=YURI%20GOMES&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=BACK-END%20%7C%20DADOS%20%7C%20ENGENHARIA%20DE%20SOFTWARE&descAlignY=60&descSize=15&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,45:0B1F4D,100:1D4ED8&height=220&section=header&text=YURI%20GOMES&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=BACK-END%20%7C%20DADOS%20%7C%20ARQUITETURA%20DE%20SOFTWARE&descAlignY=60&descSize=14&animation=fadeIn"
     width="100%"
     alt="Banner de Yuri Gomes"
   />
 </p>
 
-<!-- ANIMAÇÃO DE DIGITAÇÃO -->
+<!-- ═════════════════════ ANIMAÇÃO ═════════════════════ -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Desenvolvimento+Back-end+com+Python;Banco+de+Dados+%7C+SQL;APIs+e+aplica%C3%A7%C3%B5es+web;Dados+%7C+An%C3%A1lise+%7C+Tecnologia"
-    alt="Animação de texto com minhas áreas de interesse"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvimento+Back-end+com+Python+e+Flask;Bancos+de+Dados+Relacionais+e+NoSQL;APIs+REST+e+Arquitetura+de+Software;An%C3%A1lise+de+Dados+e+Desenvolvimento+Web"
+    alt="Animação com minhas áreas de interesse"
   />
 </p>
 
-<!-- REDES SOCIAIS -->
+<!-- ═════════════════════ REDES SOCIAIS ═════════════════════ -->
 
 <p align="center">
   <a href="https://github.com/yuri945">
@@ -35,58 +35,88 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software**, com foco em desenvolvimento back-end, bancos de dados e análise de dados.
+Sou estudante de **Engenharia de Software**, com interesse em desenvolvimento back-end, arquitetura de software, bancos de dados e análise de dados.
 
-Tenho desenvolvido projetos envolvendo Python, Flask, APIs REST, SQL e modelagem de bancos de dados relacionais. Também estudo tecnologias de desenvolvimento web e ferramentas voltadas à análise e organização de dados.
+Tenho trabalhado no desenvolvimento de aplicações web com Python e Flask, construção de APIs REST, modelagem de dados e integração com bancos relacionais. Também estudo bancos de dados não relacionais, incluindo MongoDB e Neo4j, explorando diferentes formas de organizar, consultar e relacionar informações.
 
-Gosto de entender como uma aplicação funciona por trás da interface: como os dados são armazenados, como as regras de negócio são organizadas e como as diferentes partes do sistema se comunicam.
+Nos meus projetos, busco compreender não apenas como implementar uma funcionalidade, mas também como estruturar o código, organizar as responsabilidades da aplicação e manter a consistência dos dados.
 
-Atualmente, meus principais interesses são:
+### Principais áreas de interesse
 
-- Desenvolvimento back-end e construção de APIs.
-- Bancos de dados relacionais, SQL e modelagem de dados.
-- Autenticação, organização de código e regras de negócio.
-- Desenvolvimento de aplicações web.
+- Desenvolvimento back-end com Python e Flask.
+- Arquitetura de software e organização de aplicações.
+- APIs REST, autenticação e regras de negócio.
+- Bancos de dados relacionais e não relacionais.
+- SQL, modelagem de dados e consultas.
 - Análise de dados com Excel e Power BI.
-
-Busco oportunidades para aplicar meus conhecimentos, aprender com outros desenvolvedores e evoluir por meio de projetos reais.
+- Desenvolvimento de aplicações web.
 
 ---
 
 ## Tecnologias e ferramentas
 
-### Linguagens e back-end
+### Linguagem e desenvolvimento back-end
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,java,js&theme=dark" alt="Python, Flask, Java e JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" alt="Python e Flask"/>
 </p>
 
-### Banco de dados
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST"/>
+</p>
+
+### Bancos de dados relacionais
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="PostgreSQL e SQLite"/>
-  <img src="https://img.shields.io/badge/SQL-Consultas%20e%20modelagem-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
 </p>
 
-### Desenvolvimento web
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Consultas%20e%20modelagem-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Flask--Migrate-Migrations-2563EB?style=for-the-badge" alt="Flask-Migrate"/>
+  <img src="https://img.shields.io/badge/Alembic-Versionamento-6B7280?style=for-the-badge" alt="Alembic"/>
+</p>
+
+### Bancos de dados não relacionais
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,neo4j&theme=dark" alt="MongoDB e Neo4j"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Neo4j-Grafo-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+</p>
+
+### Desenvolvimento front-end
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript"/>
 </p>
 
-### Dados e análise
+### Análise de dados
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI"/>
 </p>
 
-### Ferramentas e gerenciamento de banco
+### Ferramentas de desenvolvimento
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Git, GitHub e Linux"/>
-  <img src="https://img.shields.io/badge/Flask--Migrate%20%7C%20Alembic-Migrations-2563EB?style=for-the-badge" alt="Flask-Migrate e Alembic"/>
+</p>
+
+### Conceitos e práticas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-Organiza%C3%A7%C3%A3o%20e%20estrutura-1D4ED8?style=for-the-badge" alt="Arquitetura de software"/>
+  <img src="https://img.shields.io/badge/Modelagem%20de%20Dados-Bancos%20relacionais%20e%20NoSQL-0B1F4D?style=for-the-badge" alt="Modelagem de dados"/>
+  <img src="https://img.shields.io/badge/CRUD-Opera%C3%A7%C3%B5es%20de%20dados-2563EB?style=for-the-badge" alt="CRUD"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Versionamento-181717?style=for-the-badge&logo=github&logoColor=white" alt="Versionamento"/>
 </p>
 
 ---
@@ -109,25 +139,23 @@ Projeto acadêmico desenvolvido em equipe para uma plataforma voltada ao gerenci
 
 **Minha atuação:** desenvolvimento back-end e estruturação da aplicação.
 
-**Principais atividades e tecnologias:**
-
-- Desenvolvimento do back-end utilizando Python e Flask.
-- Organização da aplicação em models, routes, services e utils.
-- Modelagem de dados relacionais e integração com PostgreSQL por meio do SQLAlchemy.
-- Implementação de rotas e funcionalidades relacionadas à autenticação e ao gerenciamento de usuários.
+**Principais atividades:**
+- Desenvolvimento back-end utilizando Python e Flask.
+- Organização do código em models, routes, services e utils.
+- Modelagem de dados relacionais e integração com PostgreSQL usando SQLAlchemy.
+- Desenvolvimento de rotas e funcionalidades de autenticação e gerenciamento de usuários.
 - Utilização de JWT para autenticação e controle de acesso.
-- Estruturação de funcionalidades relacionadas ao cadastro e gerenciamento de crianças e estabelecimentos.
+- Funcionalidades relacionadas ao cadastro e gerenciamento de crianças e estabelecimentos.
 - Gerenciamento de alterações no banco de dados com Flask-Migrate e Alembic.
-- Desenvolvimento de um painel administrativo separado utilizando Django.
+- Desenvolvimento de painel administrativo adicional com Django.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git e GitHub"/>
 </p>
 
 <p align="center">
@@ -137,7 +165,7 @@ Projeto acadêmico desenvolvido em equipe para uma plataforma voltada ao gerenci
 </p>
 
 <p align="center">
-  <sub>🔒 Repositório privado — o código está disponível somente para colaboradores autorizados.</sub>
+  <sub>🔒 Repositório privado — disponível somente para colaboradores autorizados.</sub>
 </p>
 
 ### 02. Minhas Faltas — Sistema web
@@ -152,24 +180,23 @@ Projeto acadêmico desenvolvido em equipe para uma plataforma voltada ao gerenci
   </a>
 </p>
 
-Aplicação web desenvolvida para acompanhar disciplinas e faltas acadêmicas, com autenticação e persistência de dados.
+Aplicação web para acompanhamento de disciplinas e faltas acadêmicas, com autenticação e persistência de dados.
 
 **Principais recursos e conhecimentos aplicados:**
-
 - Desenvolvimento com Python e Flask.
-- Modelagem de usuários, disciplinas e faltas.
+- Modelagem das entidades Usuário, Disciplina e Falta.
 - Relacionamentos entre tabelas com chaves primárias e estrangeiras.
-- Operações CRUD utilizando SQLAlchemy.
+- Operações CRUD com SQLAlchemy ORM.
 - Consultas SQL com filtros, agregações e tratamento de valores nulos.
-- Gerenciamento de migrações com Flask-Migrate e Alembic.
-- Autenticação com hash de senhas e separação dos registros por usuário.
+- Migrações de banco de dados com Flask-Migrate e Alembic.
+- Hash de senhas e isolamento dos registros por usuário.
 - Configuração de PostgreSQL e variáveis de ambiente.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy"/>
 </p>
 
 ### 03. Biblioteca-Python — Sistema de biblioteca
@@ -184,9 +211,9 @@ Aplicação web desenvolvida para acompanhar disciplinas e faltas acadêmicas, c
   </a>
 </p>
 
-Sistema de gerenciamento de biblioteca desenvolvido com Python e Flask.
+Sistema de gerenciamento de biblioteca desenvolvido com Python e Flask, com operações de cadastro, consulta, atualização e exclusão de registros.
 
-O projeto trabalha com cadastro, consulta, atualização e exclusão de registros, além de manipulação de um banco de dados relacional e organização do código em módulos.
+O projeto também aborda manipulação de banco de dados relacional, criação de API REST, validações e organização do código em módulos.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -229,6 +256,8 @@ Projeto voltado à implementação e ao estudo de algoritmos de ordenação, con
 Projeto de e-commerce voltado ao comércio de tênis, com interface web e tecnologias de desenvolvimento front-end.
 
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
@@ -246,7 +275,7 @@ Projeto de e-commerce voltado ao comércio de tênis, com interface web e tecnol
   </a>
 </p>
 
-Projeto relacionado ao desenvolvimento de API, com organização de funcionalidades em módulos e aplicação de conceitos de back-end.
+Projeto relacionado ao desenvolvimento de API e à aplicação de conceitos de back-end, com organização de funcionalidades em módulos.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -261,7 +290,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
 
 ---
 
-## Estatísticas do GitHub
+## Estatísticas do Github
 
 <p align="center">
   <img
@@ -276,7 +305,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
   />
 </p>
 
-## Sequências de Contribuições
+## Sequências de Contribuições 
 
 <p align="center">
   <img
@@ -285,7 +314,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
   />
 </p>
 
-## Gráfico de Atividades
+## Gráfico de Atividades 
 
 <p align="center">
   <img
@@ -295,7 +324,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
   />
 </p>
 
-## Troféus do GitHub
+## Troféus do Github 
 
 <p align="center">
   <img
@@ -305,7 +334,7 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
   />
 </p>
 
-## Jogo da Cobrinha 
+## Snake Contribution
 
 <p align="center">
   <img
@@ -332,10 +361,10 @@ Projeto relacionado ao desenvolvimento de API, com organização de funcionalida
 </p>
 
 <p align="center">
-  <i>Do banco de dados à aplicação: construindo, testando e evoluindo um projeto de cada vez.</i>
+  <i>Transformando dados e ideias em aplicações, uma etapa de cada vez.</i>
 </p>
 
-<!-- RODAPÉ PERSONALIZADO -->
+<!-- ═════════════════════ RODAPÉ ═════════════════════ -->
 
 <p align="center">
   <img
