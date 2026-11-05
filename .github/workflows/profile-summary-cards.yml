@@ -1,0 +1,24 @@
+# Este arquivo faz o GitHub gerar sozinho os cards de estatísticas do perfil.
+# Ele roda todo dia e salva os SVGs na pasta profile-summary-card-output.
+# Foi separado do README porque os serviços externos (Vercel) caem com
+# frequência, e assim os cards ficam dentro do meu próprio repositório.
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
