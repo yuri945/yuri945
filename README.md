@@ -83,7 +83,8 @@ Nos meus projetos, busco compreender não apenas como implementar uma funcionali
 ### Bancos de dados não relacionais
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,neo4j&theme=dark" alt="MongoDB e Neo4j"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/neo4j/008CC1" width="48" height="48" alt="Neo4j"/>
 </p>
 
 <p align="left">
@@ -174,7 +175,7 @@ Projeto acadêmico desenvolvido em equipe para uma plataforma voltada ao gerenci
 <p align="center">
   <a href="https://github.com/yuri945/Minhas_Faltas">
     <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=F97316&height=100&section=header&text=Minhas%20Faltas&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
+      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Minhas%20Faltas&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
       alt="Card do projeto Minhas Faltas"
     />
@@ -229,7 +230,7 @@ O projeto também aborda manipulação de banco de dados relacional, criação d
 <p align="center">
   <a href="https://github.com/yuri945/Algoritmos-Ordenacao">
     <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=Algoritmos%20de%20Ordena%C3%A7%C3%A3o&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
+      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Algoritmos%20de%20Ordena%C3%A7%C3%A3o&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
       alt="Card do projeto Algoritmos de Ordenação"
     />
@@ -248,7 +249,7 @@ Projeto voltado à implementação e ao estudo de algoritmos de ordenação, con
 <p align="center">
   <a href="https://github.com/yuri945/E-Commerce_Tenis">
     <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=EAB308&height=100&section=header&text=E-Commerce%20T%C3%AAnis&fontSize=35&fontColor=111111&fontAlignY=55"
+      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=E-Commerce%20T%C3%AAnis&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
       alt="Card do projeto E-Commerce de Tênis"
     />
@@ -270,7 +271,7 @@ Projeto de e-commerce voltado ao comércio de tênis, com interface web e tecnol
 <p align="center">
   <a href="https://github.com/yuri945/Futebol-api">
     <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=100&section=header&text=Futebol%20API&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
+      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Futebol%20API&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
       alt="Card do projeto Futebol API"
     />
@@ -280,7 +281,8 @@ Projeto de e-commerce voltado ao comércio de tênis, com interface web e tecnol
 Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orientado a grafos, para modelar e consultar relacionamentos entre entidades do futebol.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,neo4j&theme=dark" alt="Python, Flask e Neo4j"/>
+  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" alt="Python e Flask"/>
+  <img src="https://cdn.simpleicons.org/neo4j/008CC1" width="48" height="48" alt="Neo4j"/>
 </p>
 
 <p align="center">
@@ -295,14 +297,14 @@ Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orie
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=yuri945&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=60A5FA&hide_border=true"
+    width="49%"
+    src="https://raw.githubusercontent.com/yuri945/yuri945/main/profile-summary-card-output/github_dark/3-stats.svg"
     alt="Estatísticas do GitHub"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri945&layout=compact&langs_count=8&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&hide_border=true"
-    alt="Linguagens mais utilizadas"
+    width="49%"
+    src="https://raw.githubusercontent.com/yuri945/yuri945/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Linguagens mais utilizadas nos commits"
   />
 </p>
 
@@ -320,18 +322,8 @@ Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orie
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yuri945&bg_color=0D1117&color=C9D1D9&line=2563EB&point=60A5FA&area=true&hide_border=true&custom_title=Hist%C3%B3rico%20de%20contribui%C3%A7%C3%B5es"
-    alt="Gráfico de atividade no GitHub"
-  />
-</p>
-
-## Troféus do Github
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=yuri945&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=7"
-    alt="Conquistas do GitHub"
+    src="https://ghchart.rshah.org/2563EB/yuri945"
+    alt="Gráfico de contribuições no GitHub"
   />
 </p>
 
