@@ -1,5 +1,4 @@
 <!-- ═════════════════════ BANNER ═════════════════════ -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,45:0B1F4D,100:1D4ED8&height=220&section=header&text=YURI%20GOMES&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=BACK-END%20%7C%20DADOS%20%7C%20ARQUITETURA%20DE%20SOFTWARE&descAlignY=60&descSize=14&animation=fadeIn"
@@ -9,7 +8,6 @@
 </p>
 
 <!-- ═════════════════════ ANIMAÇÃO ═════════════════════ -->
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvimento+Back-end+com+Python+e+Flask;Bancos+de+Dados+Relacionais+e+NoSQL;APIs+REST+e+Arquitetura+de+Software;An%C3%A1lise+de+Dados+e+Desenvolvimento+Web"
@@ -18,7 +16,6 @@
 </p>
 
 <!-- ═════════════════════ REDES SOCIAIS ═════════════════════ -->
-
 <p align="center">
   <a href="https://github.com/yuri945">
     <img src="https://img.shields.io/badge/GitHub-yuri945-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
@@ -140,6 +137,7 @@ Projeto acadêmico desenvolvido em equipe para uma plataforma voltada ao gerenci
 **Minha atuação:** desenvolvimento back-end e estruturação da aplicação.
 
 **Principais atividades:**
+
 - Desenvolvimento back-end utilizando Python e Flask.
 - Organização do código em models, routes, services e utils.
 - Modelagem de dados relacionais e integração com PostgreSQL usando SQLAlchemy.
@@ -183,6 +181,7 @@ Projeto acadêmico desenvolvido em equipe para uma plataforma voltada ao gerenci
 Aplicação web para acompanhamento de disciplinas e faltas acadêmicas, com autenticação e persistência de dados.
 
 **Principais recursos e conhecimentos aplicados:**
+
 - Desenvolvimento com Python e Flask.
 - Modelagem das entidades Usuário, Disciplina e Falta.
 - Relacionamentos entre tabelas com chaves primárias e estrangeiras.
@@ -275,10 +274,12 @@ Projeto de e-commerce voltado ao comércio de tênis, com interface web e tecnol
   </a>
 </p>
 
-Projeto relacionado ao desenvolvimento de API e à aplicação de conceitos de back-end, com organização de funcionalidades em módulos.
+Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orientado a grafos, para modelar e consultar relacionamentos entre entidades do futebol.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
   <img src="https://img.shields.io/badge/API%20REST-2563EB?style=flat-square" alt="API REST"/>
 </p>
 
@@ -305,7 +306,7 @@ Projeto relacionado ao desenvolvimento de API e à aplicação de conceitos de b
   />
 </p>
 
-## Sequências de Contribuições 
+## Sequências de Contribuições
 
 <p align="center">
   <img
@@ -314,7 +315,7 @@ Projeto relacionado ao desenvolvimento de API e à aplicação de conceitos de b
   />
 </p>
 
-## Gráfico de Atividades 
+## Gráfico de Atividades
 
 <p align="center">
   <img
@@ -324,7 +325,7 @@ Projeto relacionado ao desenvolvimento de API e à aplicação de conceitos de b
   />
 </p>
 
-## Troféus do Github 
+## Troféus do Github
 
 <p align="center">
   <img
@@ -365,7 +366,6 @@ Projeto relacionado ao desenvolvimento de API e à aplicação de conceitos de b
 </p>
 
 <!-- ═════════════════════ RODAPÉ ═════════════════════ -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,55:0B1F4D,100:05070D&height=110&section=footer&text=YURI%20GOMES&fontSize=20&fontColor=F8FAFC&animation=fadeIn"
