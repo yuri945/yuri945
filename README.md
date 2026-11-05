@@ -26,6 +26,9 @@
   <a href="https://www.instagram.com/yurigomes.13/">
     <img src="https://img.shields.io/badge/Instagram-Perfil-833AB4?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
   </a>
+  <a href="mailto:yurig9925@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yurig9925%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail"/>
+  </a>
 </p>
 
 ---
@@ -171,7 +174,7 @@ Projeto acadêmico desenvolvido em equipe para uma plataforma voltada ao gerenci
 <p align="center">
   <a href="https://github.com/yuri945/Minhas_Faltas">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yuri945&repo=Minhas_Faltas&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=60A5FA&hide_border=true"
+      src="https://capsule-render.vercel.app/api?type=rect&color=F97316&height=100&section=header&text=Minhas%20Faltas&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
       alt="Card do projeto Minhas Faltas"
     />
@@ -203,7 +206,7 @@ Aplicação web para acompanhamento de disciplinas e faltas acadêmicas, com aut
 <p align="center">
   <a href="https://github.com/yuri945/Biblioteca-Python">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yuri945&repo=Biblioteca-Python&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=60A5FA&hide_border=true"
+      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Biblioteca%20Python&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
       alt="Card do projeto Biblioteca Python"
     />
@@ -226,7 +229,7 @@ O projeto também aborda manipulação de banco de dados relacional, criação d
 <p align="center">
   <a href="https://github.com/yuri945/Algoritmos-Ordenacao">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yuri945&repo=Algoritmos-Ordenacao&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=60A5FA&hide_border=true"
+      src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=Algoritmos%20de%20Ordena%C3%A7%C3%A3o&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
       alt="Card do projeto Algoritmos de Ordenação"
     />
@@ -245,7 +248,7 @@ Projeto voltado à implementação e ao estudo de algoritmos de ordenação, con
 <p align="center">
   <a href="https://github.com/yuri945/E-Commerce_Tenis">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yuri945&repo=E-Commerce_Tenis&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=60A5FA&hide_border=true"
+      src="https://capsule-render.vercel.app/api?type=rect&color=EAB308&height=100&section=header&text=E-Commerce%20T%C3%AAnis&fontSize=35&fontColor=111111&fontAlignY=55"
       width="100%"
       alt="Card do projeto E-Commerce de Tênis"
     />
@@ -267,7 +270,7 @@ Projeto de e-commerce voltado ao comércio de tênis, com interface web e tecnol
 <p align="center">
   <a href="https://github.com/yuri945/Futebol-api">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yuri945&repo=Futebol-api&theme=transparent&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=60A5FA&hide_border=true"
+      src="https://capsule-render.vercel.app/api?type=rect&color=16A34A&height=100&section=header&text=Futebol%20API&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
       alt="Card do projeto Futebol API"
     />
@@ -277,10 +280,7 @@ Projeto de e-commerce voltado ao comércio de tênis, com interface web e tecnol
 Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orientado a grafos, para modelar e consultar relacionamentos entre entidades do futebol.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
-  <img src="https://img.shields.io/badge/API%20REST-2563EB?style=flat-square" alt="API REST"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,neo4j&theme=dark" alt="Python, Flask e Neo4j"/>
 </p>
 
 <p align="center">
@@ -358,6 +358,9 @@ Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orie
   </a>
   <a href="https://github.com/yuri945">
     <img src="https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:yurig9925@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"/>
   </a>
 </p>
 
