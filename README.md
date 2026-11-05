@@ -317,15 +317,6 @@ Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orie
   />
 </p>
 
-## Gráfico de Atividades
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://ghchart.rshah.org/2563EB/yuri945"
-    alt="Gráfico de contribuições no GitHub"
-  />
-</p>
 
 ## Snake Contribution
 
