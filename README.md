@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/Instagram-Perfil-833AB4?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
   </a>
   <a href="mailto:yurig9925@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yurig9925%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail"/>
   </a>
 </p>
 
