@@ -19,24 +19,20 @@
 
 
 <p align="center">
-
   <a href="https://github.com/yuri945">
-    <img src="https://img.shields.io/badge/yuri945-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=333333" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-yuri945-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   </a>
-
   <a href="https://www.linkedin.com/in/yuri-gomes13/">
-    <img src="https://img.shields.io/badge/Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=333333" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
   </a>
-
   <a href="https://www.instagram.com/yurigomes.13/">
-    <img src="https://img.shields.io/badge/Perfil-833AB4?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=333333" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Perfil-833AB4?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
   </a>
-
   <a href="mailto:yurig9925@gmail.com">
-    <img src="https://img.shields.io/badge/yurig9925%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=333333" alt="E-mail"/>
+    <img src="https://img.shields.io/badge/Email-yurig9925%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail"/>
   </a>
-
 </p>
+
 
 
 
