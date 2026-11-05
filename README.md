@@ -18,19 +18,29 @@
 <!-- ═════════════════════ REDES SOCIAIS ═════════════════════ -->
 
 
+
 <p align="center">
+
   <a href="https://github.com/yuri945">
-    <img src="https://img.shields.io/badge/GitHub-yuri945-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/YURI945-333333?style=for-the-badge" alt="Yuri945"/>
   </a>
+
   <a href="https://www.linkedin.com/in/yuri-gomes13/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Perfil-333333?style=for-the-badge" alt="Perfil"/>
   </a>
+
   <a href="https://www.instagram.com/yurigomes.13/">
-    <img src="https://img.shields.io/badge/Instagram-Perfil-833AB4?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Perfil-333333?style=for-the-badge" alt="Perfil"/>
   </a>
+
   <a href="mailto:yurig9925@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yurig9925%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/YURIG9925%40GMAIL.COM-333333?style=for-the-badge" alt="E-mail"/>
   </a>
+
 </p>
 
 
