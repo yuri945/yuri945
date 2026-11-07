@@ -26,9 +26,6 @@
   <a href="https://www.linkedin.com/in/yuri-gomes13/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/yurigomes.13/">
-    <img src="https://img.shields.io/badge/Instagram-Perfil-833AB4?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
-  </a>
   <a href="mailto:yurig9925@gmail.com">
     <img src="https://img.shields.io/badge/Email-yurig9925%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="E-mail"/>
   </a>
@@ -341,9 +338,6 @@ Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orie
 <p align="center">
   <a href="https://www.linkedin.com/in/yuri-gomes13/">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/yurigomes.13/">
-    <img src="https://img.shields.io/badge/Instagram-Siga%20meu%20perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/yuri945">
     <img src="https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
