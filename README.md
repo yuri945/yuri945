@@ -44,6 +44,8 @@ Tenho trabalhado no desenvolvimento de aplicações web com Python e Flask, cons
 
 Nos meus projetos, busco compreender não apenas como implementar uma funcionalidade, mas também como estruturar o código, organizar as responsabilidades da aplicação e manter a consistência dos dados.
 
+> **Procurando estágio em back-end ou dados.** Moro em Saquarema, no Rio de Janeiro, com disponibilidade para Rio, Niterói e trabalho remoto. Contato: [yurig9925@gmail.com](mailto:yurig9925@gmail.com)
+
 ### Principais áreas de interesse
 
 - Desenvolvimento back-end com Python e Flask.
@@ -127,7 +129,52 @@ Nos meus projetos, busco compreender não apenas como implementar uma funcionali
 
 ## Projetos em destaque
 
-### 01. BabySafe — Plataforma de gerenciamento de espaços kids
+### 01. Portaria Autônoma — Portão de condomínio com auditoria
+
+<p align="center">
+  <a href="https://github.com/yuri945/portaria-autonoma">
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Portaria%20Aut%C3%B4noma&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
+      width="100%"
+      alt="Card do projeto Portaria Autônoma"
+    />
+  </a>
+</p>
+
+Sistema de controle de entrada de veículos em condomínio. A aplicação lê a placa do veículo por visão computacional, confere a cor do carro, decide a liberação e envia os casos duvidosos para o porteiro, registrando cada evento em um log de auditoria que não pode ser alterado sem deixar rastro.
+
+**Principais recursos e conhecimentos aplicados:**
+
+- Arquitetura separada em domínio, portas e adaptadores, permitindo rodar com equipamentos simulados ou reais.
+- Modelagem relacional das entidades unidade, morador, veículo e evento em PostgreSQL com SQLAlchemy.
+- Migrações versionadas com Alembic.
+- Leitura automática de placas com FastALPR, e votação entre leituras consecutivas para tratar o erro do modelo.
+- Log de auditoria encadeado por hash, com verificação de integridade e exportação dos eventos em CSV.
+- Painel web em Flask com autenticação.
+- Testes automatizados com pytest.
+- Documentação de requisitos, casos de uso, modelo de dados, arquitetura e decisões técnicas (ADRs).
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Alembic-6B7280?style=flat-square" alt="Alembic"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
+  <img src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-ONNX-2563EB?style=flat-square" alt="Visão computacional"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yuri945/portaria-autonoma">
+    <img src="https://img.shields.io/badge/Acessar%20reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=60A5FA" alt="Acessar repositório Portaria Autônoma"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>🔒 Repositório privado — disponível somente para colaboradores autorizados.</sub>
+</p>
+
+### 02. BabySafe — Plataforma de gerenciamento de espaços kids
 
 <p align="center">
   <a href="https://github.com/yuri945/BabySafe">
@@ -173,7 +220,7 @@ Projeto acadêmico desenvolvido em equipe para uma plataforma voltada ao gerenci
   <sub>🔒 Repositório privado — disponível somente para colaboradores autorizados.</sub>
 </p>
 
-### 02. Minhas Faltas — Sistema web
+### 03. Minhas Faltas — Sistema web
 
 <p align="center">
   <a href="https://github.com/yuri945/Minhas_Faltas">
@@ -205,7 +252,26 @@ Aplicação web para acompanhamento de disciplinas e faltas acadêmicas, com aut
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy"/>
 </p>
 
-### 03. Biblioteca-Python — Sistema de biblioteca
+### 04. Futebol API — API REST com banco de grafos
+
+<p align="center">
+  <a href="https://github.com/yuri945/Futebol-api">
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Futebol%20API&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
+      width="100%"
+      alt="Card do projeto Futebol API"
+    />
+  </a>
+</p>
+
+Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orientado a grafos, para modelar e consultar relacionamentos entre entidades do futebol.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" alt="Python e Flask"/>
+  <img src="https://cdn.simpleicons.org/neo4j/008CC1" width="48" height="48" alt="Neo4j"/>
+</p>
+
+### 05. Biblioteca-Python — Sistema de biblioteca
 
 <p align="center">
   <a href="https://github.com/yuri945/Biblioteca-Python">
@@ -228,26 +294,7 @@ O projeto também aborda manipulação de banco de dados relacional, criação d
   <img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square" alt="REST API"/>
 </p>
 
-### 04. Algoritmos-Ordenacao — Algoritmos em Python
-
-<p align="center">
-  <a href="https://github.com/yuri945/Algoritmos-Ordenacao">
-    <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Algoritmos%20de%20Ordena%C3%A7%C3%A3o&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
-      width="100%"
-      alt="Card do projeto Algoritmos de Ordenação"
-    />
-  </a>
-</p>
-
-Projeto voltado à implementação e ao estudo de algoritmos de ordenação, contribuindo para o aprendizado de lógica de programação, estruturas de dados e resolução de problemas.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Algoritmos-Estruturas%20de%20dados-2563EB?style=flat-square" alt="Algoritmos e estruturas de dados"/>
-</p>
-
-### 05. E-Commerce_Tenis — E-commerce
+### 06. E-Commerce_Tenis — E-commerce
 
 <p align="center">
   <a href="https://github.com/yuri945/E-Commerce_Tenis">
@@ -269,23 +316,23 @@ Projeto de e-commerce voltado ao comércio de tênis, com interface web e tecnol
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-### 06. Futebol-api
+### 07. Algoritmos-Ordenacao — Algoritmos em Python
 
 <p align="center">
-  <a href="https://github.com/yuri945/Futebol-api">
+  <a href="https://github.com/yuri945/Algoritmos-Ordenacao">
     <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Futebol%20API&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
+      src="https://capsule-render.vercel.app/api?type=rect&color=0B1F4D&height=100&section=header&text=Algoritmos%20de%20Ordena%C3%A7%C3%A3o&fontSize=35&fontColor=FFFFFF&fontAlignY=55"
       width="100%"
-      alt="Card do projeto Futebol API"
+      alt="Card do projeto Algoritmos de Ordenação"
     />
   </a>
 </p>
 
-Projeto de API REST com Python e Flask que utiliza Neo4j, um banco de dados orientado a grafos, para modelar e consultar relacionamentos entre entidades do futebol.
+Projeto voltado à implementação e ao estudo de algoritmos de ordenação, contribuindo para o aprendizado de lógica de programação, estruturas de dados e resolução de problemas.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask&theme=dark" alt="Python e Flask"/>
-  <img src="https://cdn.simpleicons.org/neo4j/008CC1" width="48" height="48" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Algoritmos-Estruturas%20de%20dados-2563EB?style=flat-square" alt="Algoritmos e estruturas de dados"/>
 </p>
 
 <p align="center">
